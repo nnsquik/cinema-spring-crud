@@ -3,8 +3,7 @@
 Учебное веб-приложение для управления кинотеатром: кинотеатры, залы, фильмы, сеансы, билеты, сотрудники и т.д.
 Серверный MVC на Spring Boot, страницы рендерятся через Thymeleaf, данные хранятся в PostgreSQL.
 
-[![CI](https://github.com/nnsquik/cinema-spring-crud/actions/workflows/ci.yml/badge.svg)](https://github.com/nnsquik/cinema-spring-crud/actions/workflows/ci.yml)
-
+[![CI](https://github.com/nnsquik/cinema-spring-crud/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/nnsquik/cinema-spring-crud/actions/workflows/ci.yml)
 ## Возможности
 
 - Регистрация и вход (Spring Security, форма логина, пароли хешируются BCrypt)
